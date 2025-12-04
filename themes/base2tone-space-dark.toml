@@ -1,0 +1,32 @@
+# Base2Tone Space Dark
+# Exact match for Tabby/Terminus Base2Tone Space Dark
+# Hues: Orange & Indigo
+
+[colors.primary]
+background = "#24242e"
+foreground = "#a09792"
+
+[colors.cursor]
+text = "#24242e"
+cursor = "#b25424"
+
+[colors.normal]
+black   = "#24242e"  # Dark Background
+red     = "#5151e6"  # Indigo (Matches screenshot Box 1)
+green   = "#b25424"  # Orange (Matches screenshot Box 2)
+yellow  = "#cb5c25"  # Lighter Orange
+blue    = "#5b5b74"  # Muted Indigo/Grey (Matches screenshot Box 4)
+magenta = "#dd672c"  # Bright Orange (Matches screenshot Box 5)
+cyan    = "#7b736f"  # Warm Grey
+white   = "#a09792"  # Foreground Grey
+
+[colors.bright]
+black   = "#515167"  # Lighter Grey
+red     = "#7676f4"  # Bright Indigo
+green   = "#e66e33"  # Bright Orange
+yellow  = "#f37a3f"  # Vibrant Orange
+blue    = "#6363ee"  # Lighter Indigo
+magenta = "#ec7336"  # High-vis Orange
+cyan    = "#8e8580"  # Lighter Warm Grey
+white   = "#f8f8f2"  # Bright White
+

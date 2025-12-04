@@ -1,0 +1,22 @@
+import = [
+  "/home/nix/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/Orangish.toml"
+]
+
+[general]
+import = [
+  "/home/nix/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/Tokyonight_Night.toml"
+]
+
+  [font.normal]
+  family = "BlexMono Nerd Font"
+  style = "Regular"
+
+  [font.bold]
+  family = "BlexMono Nerd Font"
+  style = "Bold"
+
+[font]
+size = 14
+
+[window]
+opacity = 0.95

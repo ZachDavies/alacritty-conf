@@ -1,0 +1,18 @@
+[general]
+import = [
+"~/.config/alacritty/themes/base2tone-space-dark.toml"
+]
+
+[font]
+size = 15
+
+  [font.normal]
+  family = "BlexMono Nerd Font"
+  style = "Text"
+
+  [font.bold]
+  family = "BlexMono Nerd Font"
+  style = "Bold"
+
+[window]
+opacity = 0.95
